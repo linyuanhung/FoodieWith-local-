@@ -9,7 +9,7 @@ import datetime
 from datetime import date, time
 import time
 import folium
-from streamlit_folium import folium_static, st_folium
+#from streamlit_folium import folium_static, st_folium
 from get_recs import get_distance, filter_by_restrictions, top_reviews, reviews, reviews_all_text, open_now, get_map, print_open_hours, detailed_info, reviews_all_text, create_graph
 import pgeocode
 from PIL import Image
